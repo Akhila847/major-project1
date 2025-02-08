@@ -1,3 +1,11 @@
+nav {
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  top:0;
+  padding-left:10px;
+}
+
 li {
   list-style: none;
   padding: 20px;
@@ -11,6 +19,7 @@ ul > a {
 .first-div {
   padding: 60px;
   height: 550px;
+  margin-top:80px;
 }
 .first-img {
   height: 450px;
@@ -150,6 +159,7 @@ p6 {
     padding-left: 5px;
     padding-top: 10px;
     padding-bottom: 5px;
+    padding-right:5px;
   }
   ul > a {
     text-decoration: none;
@@ -257,11 +267,10 @@ p6 {
   }
   .p-in-subdiv3 {
     padding-right: 0px;
-    margin-left:80px;
+    margin-left: 80px;
   }
   .p-in-div3 {
     text-align: center;
-  
   }
   .third-content {
     margin: 0px;
